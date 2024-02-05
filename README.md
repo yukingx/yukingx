@@ -1,4 +1,4 @@
-- 👀 ML Researcher@ETRI
+- 👀 PI for AI Researcher@ETRI
 
 <!---
 yukingx/yukingx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
