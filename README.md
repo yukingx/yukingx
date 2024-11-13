@@ -1,4 +1,4 @@
-- 👀 PI for AI Researcher@ETRI
+- 👀 AI Researcher at SSWU
 
 <!---
 yukingx/yukingx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
